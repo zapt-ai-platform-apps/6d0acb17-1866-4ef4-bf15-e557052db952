@@ -1,36 +1,41 @@
-# Chat with Your Virtual Companion
+# Chat with Your Explicit Companion
 
-This journey guides you through engaging in a conversation with your virtual companion.
+This journey guides you through engaging in a conversation with your explicit companion.
 
 ## Steps
 
 1. **Open the App**
-   - Launch the Virtual Companion app in your browser.
-   - You will see a header displaying "Virtual Companion" and a chat window below.
+   - Launch the Explicit Companion Chat app in your browser.
+   - You'll be greeted with a content warning screen about explicit material. Confirm you are 18 or older to proceed.
 
-2. **View the Conversation**
-   - The chat window displays messages in a conversation format.
-   - User messages appear on the right in a blue bubble.
-   - Companion responses appear on the left in a gray bubble.
+2. **Acknowledge the Warning**
+   - Read the explicit content warning.
+   - Click "I Accept" to acknowledge and proceed to the chat interface.
 
-3. **Send a Message**
+3. **View the Conversation**
+   - The chat window displays messages in an engaging conversation format.
+   - User messages appear on the right in a bold, blue bubble.
+   - Companion responses, laden with explicit language, appear on the left in a contrasting gray bubble.
+
+4. **Send a Message**
    - Type your message in the input field at the bottom of the screen.
-   - Click the "Send" button. The button will be disabled while a message is processing to prevent duplicate submissions.
-   - Your message will immediately appear in the chat window.
+   - Click the "Send" button. The button is disabled while processing to prevent duplicate submissions.
+   - Your message is immediately displayed in the chat window.
 
-4. **Receive a Response**
-   - After a short delay, the virtual companion will respond.
-   - The companion's reply is simulated to create a friendly, engaging conversation.
-   - The chat window will automatically scroll to the latest messages.
+5. **Receive a Candid Response**
+   - After a brief delay, your explicit companion responds with bold, unfiltered language.
+   - The companion's reply is crafted to be direct and provocative, reflecting an explicit personality.
+   - The chat window automatically scrolls to the latest messages.
 
-5. **Explore Further**
-   - Continue the conversation to experience more interactive responses.
-   - The app logs key events to the console for strategic debugging and performance monitoring.
+6. **Explore Further**
+   - Continue the conversation to experience more explicit and candid dialogue.
+   - Key interactions and events are logged to the console for debugging and performance monitoring.
 
 ## Important Information
 
-- Actions are logged to the console to help developers monitor interactions.
-- Errors during interactions are captured by Sentry for prompt resolution.
+- This app uses explicit language and content intended for adult audiences.
+- Actions are logged for strategic debugging.
+- Errors are captured by Sentry for prompt resolution.
 - The "Made on ZAPT" badge is permanently visible and links to the [ZAPT website](https://www.zapt.ai).
 
-Enjoy your conversation and let your virtual companion brighten your day!
+Enjoy your conversation, and be prepared for an unfiltered, explicit companion experience!
