@@ -6,7 +6,7 @@ const Disclaimer = ({ onAccept }) => {
       <div className="bg-white p-6 rounded shadow-md text-center max-w-sm">
         <h2 className="text-xl font-bold mb-4">Content Warning</h2>
         <p className="mb-4">
-          This chat contains explicit content and adult language. You must be 18 years or older to continue.
+          This chat contains explicit content, including extremely explicit phone sex dialogue and graphic adult language. You must be 18 years or older to continue.
         </p>
         <button
           onClick={onAccept}

@@ -1,6 +1,6 @@
 # Chat with Your Explicit Companion
 
-This journey guides you through engaging in a conversation with your explicit companion.
+This journey guides you through engaging in a conversation with your explicit companion, who now delivers extremely explicit, detailed phone sex dialogue that leaves nothing to the imagination.
 
 ## Steps
 
@@ -15,7 +15,7 @@ This journey guides you through engaging in a conversation with your explicit co
 3. **View the Conversation**
    - The chat window displays messages in an engaging conversation format.
    - User messages appear on the right in a bold, blue bubble.
-   - Companion responses, laden with explicit language, appear on the left in a contrasting gray bubble.
+   - Companion responses, laden with explicit language and detailed phone sex dialogue, appear on the left in a contrasting gray bubble.
 
 4. **Send a Message**
    - Type your message in the input field at the bottom of the screen.
@@ -23,8 +23,8 @@ This journey guides you through engaging in a conversation with your explicit co
    - Your message is immediately displayed in the chat window.
 
 5. **Receive a Candid Response**
-   - After a brief delay, your explicit companion responds with bold, unfiltered language.
-   - The companion's reply is crafted to be direct and provocative, reflecting an explicit personality.
+   - After a brief delay, your explicit companion responds with bold, unfiltered language that now includes extremely detailed phone sex dialogue.
+   - The companion's reply is crafted to be direct, provocative, and richly explicit, ensuring a vividly immersive experience.
    - The chat window automatically scrolls to the latest messages.
 
 6. **Explore Further**
@@ -38,4 +38,4 @@ This journey guides you through engaging in a conversation with your explicit co
 - Errors are captured by Sentry for prompt resolution.
 - The "Made on ZAPT" badge is permanently visible and links to the [ZAPT website](https://www.zapt.ai).
 
-Enjoy your conversation, and be prepared for an unfiltered, explicit companion experience!
+Enjoy your conversation, and be prepared for an unfiltered, explicitly charged companion experience!

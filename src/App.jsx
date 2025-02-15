@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import * as Sentry from '@sentry/browser';
 import { ChatWindow, ChatInput, Disclaimer } from './components';
+import { generateCompanionReply } from './utils/chatUtils';
 
 export default function App() {
   const [messages, setMessages] = useState([]);
@@ -25,17 +26,6 @@ export default function App() {
       Sentry.captureException(error);
       setIsLoading(false);
     }
-  };
-
-  const generateCompanionReply = (userText) => {
-    console.log("Generating explicit reply for:", userText);
-    const responses = [
-      `Listen up, babe: ${userText}`,
-      `Oh honey, you really know how to get me going with "${userText}"`,
-      `Damn, you're turning me on with that: ${userText}`,
-      `Keep it coming, darling, I love the way you say "${userText}"`
-    ];
-    return responses[Math.floor(Math.random() * responses.length)];
   };
 
   if (!disclaimerAccepted) {
